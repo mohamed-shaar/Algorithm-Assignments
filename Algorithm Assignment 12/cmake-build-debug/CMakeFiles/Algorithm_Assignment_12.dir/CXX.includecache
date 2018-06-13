@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Shaar/CLionProjects/Algorithm Assignment 12/G6_20150338_Assign12_KnapsackBT.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+

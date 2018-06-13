@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Shaar/CLionProjects/Algorithm Assignment 13/G6_20150338_Assign13_GenPerm.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+
